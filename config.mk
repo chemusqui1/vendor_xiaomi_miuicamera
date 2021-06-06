@@ -10,6 +10,8 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     MiuiCamera \
+    MiuiExtraPhoto \
+    MiuiScanner \
     miuires
 
 PRODUCT_PRODUCT_PROPERTIES += \
